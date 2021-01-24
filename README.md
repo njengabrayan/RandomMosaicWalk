@@ -1,5 +1,5 @@
 # RandomMosaicWalk
-A simple java project I initiated to help me get hands'on on the git platform.
+A simple java project I moved to github to get hands'on practice of the platform.
 
 # ABOUT THE PROGRAM
   ![ screenshot image of the program](http://trendymosaic.com/Trendy-Mosaic-ScreenShots/TrendyMosaic-SC-Blend-3.jpg)
